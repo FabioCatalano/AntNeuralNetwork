@@ -1,0 +1,6 @@
+terrain_size: 40
+mutation_rate: 0.5
+generations: 20
+ants_per_generation: 50
+elitism: 5
+steps_per_run: 200

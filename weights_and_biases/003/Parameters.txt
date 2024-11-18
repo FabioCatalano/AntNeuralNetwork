@@ -1,0 +1,7 @@
+terrain_size: 20
+mutation_rate: 0.9
+generations: 40
+ants_per_generation: 100
+elitism: 15
+steps_per_run: 100
+avoid_walls_perimeter: True
