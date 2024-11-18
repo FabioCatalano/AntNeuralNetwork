@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#folders
+Figures/old_figures/
+
 # Distribution / packaging
 .Python
 build/
